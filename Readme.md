@@ -1,4 +1,5 @@
-<a href="#"><img width="100%" height="auto" src="https://tenor.com/bRnfB.gif" height="175px"/></a>
+
+![linux-computer](https://github.com/CaeseR112/CaeseR112/assets/104189503/b52fa935-ebb0-473a-8a3b-29eb999f545b)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kusal</h1>
 
