@@ -3,9 +3,9 @@
 
 - 🎓 I’m currently undergraduate on **BSc(Hons) Computer Science & Software Engineering in UOB(UK)**
 
-- 🌱 I’m currently learning **Python**
-
 - 🎓 Also an undergraduate on **Bachelor of Information Technology in University of Colombo School of Computing**
+
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **frisbydollar@gmail.com , https://www.linkedin.com/in/kusal-jayashanka-372b52235/**
 
