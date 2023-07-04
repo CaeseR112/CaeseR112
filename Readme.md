@@ -1,6 +1,9 @@
 <p align="center">
-<a href="#" ><img  width="30%" height="auto" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" height="105px"/></a>
+<a href="#" ><img  width="30%" height="auto" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczF2b2dlbXRobnd0Zjh5YW1iNXVycjA0bXFieDJnazV5ZzAwcHB0ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" height="105px"/></a>
 </p>
+
+
+#https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kusal</h1>
 
