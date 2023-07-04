@@ -1,4 +1,4 @@
-<a href="#"><img align="center" width="50%" height="auto" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" height="105px"/></a>
+<a href="#" align="center" ><img  width="50%" height="auto" src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" height="105px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kusal</h1>
 
