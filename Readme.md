@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📫 How to reach me **frisbydollar@gmail.com , https://www.linkedin.com/in/kusal-jayashanka-372b52235/**
+- 📫 How to reach me **frisbydollar@gmail.com**
 
 - 👾 Check out my 3D work portfolio from here : [https://xx_caeser_xx.artstation.com/](https://xx_caeser_xx.artstation.com/)
 
