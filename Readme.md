@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **frisbydollar@gmail.com**
 
-- 👾 Check out my 3D work portfolio from here : [https://xx_caeser_xx.artstation.com/](https://xx_caeser_xx.artstation.com/)
+- 👾 Check out my 3D work portfolio from here : [https://www.deviantart.com/legendarysunnin](https://www.deviantart.com/legendarysunnin)
 
 - ⚡ Fun fact : **I like watching movies, tv series & Playing games.**
 
