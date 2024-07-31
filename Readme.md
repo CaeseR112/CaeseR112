@@ -4,9 +4,9 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Kusal</h1>
 
-<h3 align="center">I'm passionate Full Stack Developer from Sri Lanka</h3>
+<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka</h3>
 
-- 🎓 I’m currently undergraduate on **BSc(Hons) Computer Science & Software Engineering in UOB(UK)**
+- 🎓 I’m currently an undergraduate on **BSc(Hons) Computer Science & Software Engineering in UOB(UK)**
 
 - 🎓 Also an undergraduate on **Bachelor of Information Technology in University of Colombo School of Computing**
 
